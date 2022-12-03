@@ -45,7 +45,6 @@ print(player_1.multiply(23, 43))
 print(player_1.shout2())
 print(player_1._welcome())
 
-
  
 # draft - вес корабля 
 # crew - пассажиры
